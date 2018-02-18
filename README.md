@@ -27,22 +27,28 @@ www.autismweb.com
 2.1 Business opportunity:
 •	We aim to establish a research site in India that will encourage sustained research on autism that is truly interdisciplinary and ecologically valid.
 •	This interface would make it easier for the concerned people and the doctors especially to update themselves on the recent developments on Autism.
+
+
 2.2 Problem statement:
 Website that contains information about commoners communicating with experts for a new breakthrough in the field of autism. The website will contain statistical information and visuals.
 2.3 Product position statement:
 It aims to fillthe void that the society faces related to autistic people.
 We aim to create a platform in India that will encourage sustained research on autism that is truly interdisciplinary and ecologically valid.
+
+
 3.0 Stakeholder and user descriptions
 •	Raise the awareness and basic understanding of autism among paediatricians
 •	Increase the number of early and accurate diagnoses of the condition autism
 •	Reach parents in all localities of India who have children newly diagnosed as autistic
 •	Provide relevant information about the condition
 •	Provide information on how to receive further assistance
+
 3.1 Market demographics:
 •	Reach parents in all localities of India who have children newly diagnosed as autistic
 •	Provide relevant information about the condition
 3.2 Stakeholder summary:
  Doctors:Advise and post research papers .
+ 
 User:
 Researchers: Post research papers
 3.3 User summary: List all the identified user types. For each user type, provide this information:
